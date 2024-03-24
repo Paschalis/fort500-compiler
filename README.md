@@ -20,4 +20,4 @@ The FORT500 compiler project aims to implement both a lexical analyzer (LA) and 
 Contributions are welcome! Please refer to the [contribution guidelines](CONTRIBUTING.md) for more information on how to contribute to this project.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.txt).
