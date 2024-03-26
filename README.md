@@ -3,6 +3,8 @@
 This repository hosts the development of a compiler for FORT500, a high-level language resembling FORTRAN with structured commands and record structures, supporting recursive subprogram definition.
 
 ## Overview
+![Alt text](drawing.png)
+
 The FORT500 compiler project is divided into two main components: the Lexical Analyzer and the Syntax Analyzer. These components work together to analyze and process FORT500 source code.
 
 ### Lexical Analyzer
